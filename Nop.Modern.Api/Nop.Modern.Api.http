@@ -1,0 +1,6 @@
+@Nop.Modern.Api_HostAddress = http://localhost:5182
+
+GET {{Nop.Modern.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
